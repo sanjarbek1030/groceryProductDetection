@@ -1,0 +1,18 @@
+# Ultralytics dataset description.
+# If "path" is omitted, Ultralytics uses the folder that contains this file,
+# which avoids Windows path problems. Paths below are relative to that folder.
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: coca_cola
+  1: pepsi
+  2: lays_classic
+  3: lays_cheese
+  4: oreo
+  5: snickers
+  6: kitkat
+  7: sprite
+  8: fanta
+  9: water
