@@ -1,0 +1,12 @@
+{
+  "coca_cola":    {"name": "Coca-Cola",       "category": "Soft Drink", "price": 1.50, "currency": "USD"},
+  "pepsi":        {"name": "Pepsi",           "category": "Soft Drink", "price": 1.45, "currency": "USD"},
+  "lays_classic": {"name": "Lay's Classic",   "category": "Snack",      "price": 1.99, "currency": "USD"},
+  "lays_cheese":  {"name": "Lay's Cheese",    "category": "Snack",      "price": 1.99, "currency": "USD"},
+  "oreo":         {"name": "Oreo Original",   "category": "Snack",      "price": 2.20, "currency": "USD"},
+  "snickers":     {"name": "Snickers",        "category": "Chocolate",  "price": 1.30, "currency": "USD"},
+  "kitkat":       {"name": "KitKat",          "category": "Chocolate",  "price": 1.25, "currency": "USD"},
+  "sprite":       {"name": "Sprite",          "category": "Soft Drink", "price": 1.50, "currency": "USD"},
+  "fanta":        {"name": "Fanta Orange",    "category": "Soft Drink", "price": 1.50, "currency": "USD"},
+  "water":        {"name": "Bottled Water",   "category": "Beverage",   "price": 0.99, "currency": "USD"}
+}
